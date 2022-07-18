@@ -1,4 +1,4 @@
-Hi there
+Hi there 👋
 
 I'm João Paulo Veiga, I am a dev passionate about technology!
 
