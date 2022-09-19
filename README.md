@@ -8,3 +8,5 @@ This is the space where I spend lot of my time where, imagination and creativity
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao57&theme=swift)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao57&theme=dark&show_icons=true)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao57"/>
