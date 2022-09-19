@@ -7,5 +7,4 @@ This is the space where I spend lot of my time where, imagination and creativity
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao57&theme=swift)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?joao57=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao57&theme=dark&show_icons=true)
