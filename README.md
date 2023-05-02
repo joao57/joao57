@@ -6,3 +6,4 @@ This is the space where I spend lot of my time where, imagination and creativity
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao57&theme=tokyonight)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao57"/>
